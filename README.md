@@ -29,3 +29,10 @@ Exploratory Data Analysis (EDA): Analyzing data to identify patterns and correla
 Feature Engineering: Creating new features and preparing data for modeling.
 Model Building: Using classification algorithms such as Logistic Regression, Random Forest, and Gradient Boosting to predict churn.
 Model Evaluation: Evaluating model performance using metrics like accuracy, precision, recall, and F1-score to choose the best model.
+
+To run this project locally:
+Clone the repository:
+git clone https://github.com/Mari-kn/customer-churn-prediction.git
+cd customer-churn-prediction
+
+
